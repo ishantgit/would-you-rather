@@ -10,7 +10,7 @@ This app is the project required for [Udacity's React Nanodegree program](https:
 Clone the repository, change directories, and use NPM to install the dependencies.
 
 ```bash
-$ git clone https://github.com/ishantgit/MyReads
+$ git clone https://github.com/ishantgit/would-you-rather.git
 $ cd would-you-rather
 $ npm install
 ```
@@ -26,3 +26,6 @@ The project can be viewed in the browser at
 - [http://localhost:3000](http://localhost:3000)
 
 ## Screenshots
+![screenshot1](./screenshot_first.png)
+
+![screenshot2](./screenshot_second.png)
